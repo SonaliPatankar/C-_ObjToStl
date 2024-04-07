@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+/FileTranslator/.vs/FILETRANSLATOR/FileContentIndex
+/FileTranslator/.vs/FILETRANSLATOR/v17
+/FileTranslator/ObjToStl/bin/Debug/net8.0
+/FileTranslator/ObjToStl/obj
+/FileTranslator/StlToObj/bin/Debug/net8.0
+/FileTranslator/StlToObj/obj
+/FileTranslator/.vs/FILETRANSLATOR/DesignTimeBuild
+/FileTranslator/.vs/FILETRANSLATOR'/DesignTimeBuild
+/FileTranslator/.vs/FILETRANSLATOR'/FileContentIndex
+/FileTranslator/.vs/FILETRANSLATOR'/v17
+/FileTranslator/.vs/ProjectEvaluation
