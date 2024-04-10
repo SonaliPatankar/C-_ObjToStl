@@ -1,4 +1,4 @@
-# TRNSLATOR:
+# TRANSLATOR:
 This project aims to optimize the Triangulation data structure and provide functionalities as follow:
 1. convert .stl file to .obj file
 2. convert .obj file to .stl file
